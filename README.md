@@ -1,2 +1,4 @@
 # hello-world
-First repository used to learn GitHub
+GitHub's "Hello World" Guide
+
+First repository used to learn GitHub!
